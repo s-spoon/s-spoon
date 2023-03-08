@@ -12,9 +12,8 @@
       src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Full Stack%20Engineer%20&location=Japan&fill=black">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
-    <img
-      src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
-  </a>
+    <img style="height:190px" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+</a>
 </p>
 
 ## Things I use on a daily basis
@@ -26,6 +25,12 @@
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=2d79c7">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=2d79c7">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next&svgfill=2d79c7">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
