@@ -62,7 +62,7 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=golang&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f6df1c">
