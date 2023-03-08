@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://github.com/Cleaninja/build-components">
     <img
-      src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Japan&fill=black">
+      src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&fill=black">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
     <img style="height:190px"
@@ -22,19 +22,19 @@
 <p align="left">
   <a href="https://github.com/Cleaninja/build-components">
     <img
-      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+      src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=react&animation=spin&svgfill=15d8fe">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=vue.js&svgfill=2d79c7">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=angular&svgfill=2d79c7">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=ember.js&svgfill=df5c43">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=df5c43">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=jquery&svgfill=df5c43">
   </a>
 </p>
 
