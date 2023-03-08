@@ -25,16 +25,16 @@
       src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=react&animation=spin&svgfill=15d8fe">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=vue.js&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=grey&logo=vue.js&svgfill=2d79c7">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=angular&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=grey&logo=angular&svgfill=2d79c7">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=ember.js&svgfill=df5c43">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=grey&logo=ember.js&svgfill=df5c43">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=jquery&svgfill=df5c43">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=grey&logo=jquery&svgfill=df5c43">
   </a>
 </p>
 
@@ -55,48 +55,48 @@
 
 <p>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=mysql&svgfill=659b60">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=postgreSQL&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=mongodb&svgfill=f6df1c">
   </a> <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=firebase&svgfill=f6df1c">
   </a>
 </p>
 
 
 <p>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=Green&logo=javascript&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=Green&logo=webpack&svgfill=8ed5fa">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=Green&logo=sass&svgfill=cd6799">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=028dd1">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=Green&logo=php&svgfill=028dd1">
   </a>
 
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=Green&logo=python&svgfill=f6df1c">
   </a>
 
 </p>
 
 <a href="https://github.com/Cleaninja/build-components">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=DarkSlateGrey&logo=github">
 </a>
 <a href="https://github.com/Cleaninja/build-components">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gitlab">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=DarkSlateGrey&logo=gitlab">
 </a>
 <a href="https://github.com/Cleaninja/build-components">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=DarkSlateGrey&logo=trello">
 </a>
 <a href="https://github.com/Cleaninja/build-components">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=DarkSlateGrey&logo=figma">
 </a>
