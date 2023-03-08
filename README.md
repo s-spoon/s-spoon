@@ -34,9 +34,6 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind.css&svgfill=df5c43">
-  </a>
-  <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=df5c43">
   </a>
 </p>
