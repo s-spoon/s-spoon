@@ -41,6 +41,32 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=f6df1c">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=f6df1c">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=f6df1c">
+  </a>
+  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=f6df1c">
+  </a>  <a href="https://github.com/Cleaninja/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f6df1c">
+  </a>
+</p>
+
 
 <p>
   <a href="https://github.com/Cleaninja/readme-components">
@@ -56,9 +82,6 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-  </a>
-  <a href="https://github.com/Cleaninja/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=028dd1">
   </a>
   <a href="https://github.com/Cleaninja/readme-components">
@@ -67,22 +90,7 @@
   <a href="https://github.com/Cleaninja/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f6df1c">
   </a>
-  <!-- <a href="https://github.com/Cleaninja/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
 
-</p>
-
-<p>
-  <a href="https://github.com/Cleaninja/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  </a>
-  <a href="https://github.com/Cleaninja/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=f6df1c">
-  </a>
-  <a href="https://github.com/Cleaninja/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=f6df1c">
-  </a>
 </p>
 
 <a href="https://github.com/Cleaninja/readme-components">
