@@ -48,9 +48,6 @@
   <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=f6df1c">
   </a>  
-  <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=beego&svgfill=f6df1c">
-  </a>
 </p>
 
 <p>
