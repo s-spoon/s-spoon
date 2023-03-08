@@ -47,7 +47,10 @@
   </a>
   <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=f6df1c">
-  </a>  
+  </a>
+  <a href="https://github.com/Cleaninja/build-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c">
+  </a>
 </p>
 
 <p>
@@ -59,7 +62,7 @@
   </a>
   <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=f6df1c">
-  </a>  <a href="https://github.com/Cleaninja/build-components">
+  </a> <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f6df1c">
   </a>
 </p>
@@ -78,9 +81,7 @@
   <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=028dd1">
   </a>
-  <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c">
-  </a>
+
   <a href="https://github.com/Cleaninja/build-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f6df1c">
   </a>
