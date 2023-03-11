@@ -70,20 +70,20 @@
 
 <p>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=javascript&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=green&logo=javascript&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=webpack&svgfill=8ed5fa">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=green&logo=webpack&svgfill=8ed5fa">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=sass&svgfill=cd6799">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=green&logo=sass&svgfill=cd6799">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=php&svgfill=028dd1">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=green&logo=php&svgfill=028dd1">
   </a>
 
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=python&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=green&logo=python&svgfill=f6df1c">
   </a>
 
 </p>
