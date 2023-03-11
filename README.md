@@ -40,16 +40,16 @@
 
 <p>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=node.js&svgfill=659b60">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=node.js&svgfill=659b60">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=laravel&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=laravel&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=django&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=django&svgfill=f6df1c">
   </a>
   <a href="https://github.com/Cleaninja/build-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=orange&logo=go&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=go&svgfill=f6df1c">
   </a>
 </p>
 
