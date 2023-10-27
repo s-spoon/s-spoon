@@ -1,4 +1,4 @@
-# Hi there 👋
+# Alex | Full Stack Developer 👋
 
 
 <p align="left">
